@@ -1,7 +1,10 @@
 ---
 layout: null
 title: Privacy Policy
+permalink: /privacy/
 ---
+
+_Last updated: 09 Dec 2025_
 
 This Privacy Policy explains how **Globy** (“we”, “us”, “our”) processes information in the Globy iOS app.
 
@@ -93,7 +96,5 @@ Globy is not directed to children under the age required by local law (e.g., 13)
 
 ## Changes to this policy
 We may update this Policy from time to time. Material changes will be reflected here with a new “Last updated” date.
-
-_Last updated: 09 Dec 2025_
 
 **Contact**: [support@globy.app](mailto:support@globy.app)
