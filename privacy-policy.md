@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: null
 title: Privacy Policy
 permalink: /privacy
 ---
