@@ -4,8 +4,6 @@ title: Terms of Use
 permalink: /terms/
 ---
 
-_Last updated: 09 Dec 2025_
-
 By downloading or using **Globy** (the “App”), you agree to these Terms. Please read them carefully before using the App.
 
 ## 1. License & Intellectual Property
@@ -51,6 +49,8 @@ To the fullest extent permitted by law, we are not liable for indirect, incident
 
 ## 12. Changes to These Terms
 We may update these Terms from time to time. Material changes will be posted here with a new “Last updated” date. Continued use of the App after changes means you accept the updated Terms.
+
+_Last updated: 09 Dec 2025_
 
 ## 13. Contact
 Questions or suggestions? Contact us at **[support@globy.app](mailto:support@globy.app)**.
