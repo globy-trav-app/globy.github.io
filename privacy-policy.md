@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+permalink: /privacy
 ---
 
 This Privacy Policy describes how **Globy** ("we", "us", "our") collects, uses, and safeguards information in the Globy iOS app.
