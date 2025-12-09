@@ -9,7 +9,7 @@ This Privacy Policy explains how **Globy** (“we”, “us”, “our”) proce
 ## Who we are
 Globy is a mobile app for tracking visited places and trips on iOS. We don’t run our own backend that stores your personal data. Most data stays on your device and only selected events are shared with third-party providers to enable in-app purchases and maps.
 
-Contact: [support@globy.app](mailto:support@globy.app)
+Contact: [globytravel@gmail.com](mailto:globytravel@gmail.com)
 
 ---
 
@@ -62,7 +62,7 @@ Each provider processes data under its own privacy policy and may store/transfer
 - **Photos**: iOS Settings → Privacy & Security → Photos → Globy.  
 - **Purchases**: manage/cancel in **Settings → Apple ID → Subscriptions**.  
 - **Delete on-device data**: you can clear all app data in **Settings → Globy → Clear Data** (within the app).
-- **Contact us**: for any request about your data: [support@globy.app](mailto:support@globy.app).
+- **Contact us**: for any request about your data: [globytravel@gmail.com](mailto:globytravel@gmail.com).
 
 ---
 
@@ -97,4 +97,4 @@ We may update this Policy from time to time. Material changes will be reflected 
 
 _Last updated: 09 Dec 2025_
 
-**Contact**: [support@globy.app](mailto:support@globy.app)
+**Contact**: [globytravel@gmail.com](mailto:globytravel@gmail.com)
