@@ -53,4 +53,4 @@ We may update these Terms from time to time. Material changes will be posted her
 _Last updated: 09 Dec 2025_
 
 ## 13. Contact
-Questions or suggestions? Contact us at **[support@globy.app](mailto:support@globy.app)**.
+Questions or suggestions? Contact us at **[globytravel@gmail.com](mailto:globytravel@gmail.com)**.
